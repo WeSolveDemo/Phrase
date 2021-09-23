@@ -1,0 +1,22 @@
+phraseapp:
+project_id: bc443b869c87d575606ecaa4dc4f2688
+
+push:
+  sources:
+  - file: ./locales/menu1 en_US.json
+  params: 
+    file_format: simple_json
+    locale_id: 5e97f7b45c9c0acbddfe04ca4d96d62d
+    update_translations: true
+    
+pull:
+  targets:
+  - file: ./locales/menu1 de_DE.json
+  params:
+    file_format: simple_json
+    locale_id: 1dd442ef53b18a00fde066d9bd3cc46b
+    
+  - file: ./locales/menu1 fr_FR.json
+  params:
+    file_format: simple_json
+    locale_id: 2472c5c33ab5fc5d01a8680f3bfb167e
