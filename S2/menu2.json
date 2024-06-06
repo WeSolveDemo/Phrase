@@ -1,0 +1,13 @@
+{
+	"app.description": "Description of the program.",
+	"app.version": "Version1.0",
+	"app.button.confirm": "Confirm",
+	"app.button.cancel": "Cancel",
+	"app.button.cut": "Cut",
+	"app.button.paste": "Paste",
+	"app.button.save": "Save",
+	"app.button.copy": "Copy",
+	"app.button.undo": "Undo",
+	"app.button.redo": "Redo",
+	"app.button.quit": "Quit"
+}
