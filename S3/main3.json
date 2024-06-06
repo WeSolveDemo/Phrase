@@ -9,5 +9,6 @@
 	"app.button.copy": "Copy",
 	"app.button.undo": "Undo",
 	"app.button.reundo": "Do Again",
-	"app.button.quit": "Quit"
+	"app.button.quit": "Quit",
+	"app.button.update": "Update"
 }
