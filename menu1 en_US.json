@@ -4,5 +4,6 @@
 	"app.button.cancel": "cancel",
 	"app.button.save": "save",
 	"app.button.saveas": "save as...",
-	"app.button.cut": "cut"
+	"app.button.cut": "cut",
+	"app.button.copy": "copy"
 }
