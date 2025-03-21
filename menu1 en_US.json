@@ -3,5 +3,6 @@
 	"app.button.confirm": "confirm",
 	"app.button.cancel": "cancel",
 	"app.button.save": "save",
-	"app.button.saveas": "save as..."
+	"app.button.saveas": "save as...",
+	"app.button.cut": "cut"
 }
